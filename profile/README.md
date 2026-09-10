@@ -1,6 +1,12 @@
-# ROBOX Robotics & AI Center
-
-### There is Always a way!
+┌───────────────────────────────────────────────────────────┐
+│                                                           │
+│       ROBOX ROBOTICS & AI CENTER                          │
+│                                                           │
+│       Robotics • AI • Automation • Manufacturing          │
+│                                                           │
+│              There is Always a way!                       │
+│                                                           │
+└───────────────────────────────────────────────────────────┘
 
 ROBOX Robotics & AI Center is an Ethiopian robotics engineering and technology innovation center focused on building practical solutions, developing technical skills, and connecting education with real-world engineering.
 
