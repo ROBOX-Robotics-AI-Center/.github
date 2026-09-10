@@ -72,27 +72,7 @@ ROBOX is also an official SOLIDWORKS Authorized Sub-Reseller in Ethiopia, provid
 
 ---
 
-## Our Technology Areas
 
-```text
-Robotics
-    ↓
-Artificial Intelligence
-    ↓
-Automation & Control
-    ↓
-Embedded Systems & Electronics
-    ↓
-CAD / 3D Design
-    ↓
-3D Printing & Prototyping
-    ↓
-CNC & Digital Manufacturing
-```
-
-We are interested in technologies that allow ideas to move from the screen into the physical world.
-
----
 
 ## Our Philosophy
 
